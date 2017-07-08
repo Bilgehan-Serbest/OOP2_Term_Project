@@ -13,6 +13,8 @@ The main goal of this project is to build an online book store application that 
 * Logger class keeps the date and time data of the operations made.
 * MailSender class sends the invoice to the user’s e-mail address.
 
+You can take a look some of screenshots of project from [here](https://github.com/tahirozdemir34/OOP2_Term_Project/tree/master/Screenshots).
+
 ### Team Members:
 
  * [Azmi Cibi](https://github.com/azmicibii) 
